@@ -60,7 +60,7 @@ public class Deck
 
    public String toString()
    {
-      return stackOfCards + "   topCardIndex = " + topCardIndex;
+      return stackOfCards + " ";
    }
 
     

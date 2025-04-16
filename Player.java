@@ -59,7 +59,7 @@ public class Player
 
    public String toString()
    {
-      return "Hand:" + "" + hand + " Hand Value:" + "" + getHandValue() + " Win Count:" + "" +  winCount;
+      return "Hand:" + "" + hand + "-" + "" + getHandValue();
    }
 
 }
